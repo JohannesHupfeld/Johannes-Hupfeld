@@ -1,4 +1,4 @@
-<img src="https://github.com/JohannesHupfeld/Johannes-Hupfeld/blob/main/linkedinBG_02 copy.vectornator"/> 
+<img src="https://github.com/JohannesHupfeld/Johannes-Hupfeld/blob/main/GithubBG_02y.jpeg"/> 
 
 Hey, I am a full stack web developer and graduate of Flatiron School for Software Engineering. Some languages and libraries I am well versed in are Ruby on Rails, JavaScript, React.js and Redux. I am a former social worker and freelancer in video production but finally took the leap and ventured into the world of computer progamming, something I always wanted to be a part of. 
 
